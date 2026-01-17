@@ -1,6 +1,6 @@
 # FAST-LIO Windows 版本 (无 ROS 依赖)
 
-本项目是 FAST-LIO 算法的 Windows MSVC 移植版本，完全移除了 ROS 依赖，可以直接在 Windows 上编译运行。支持从 Livox MID360 雷达采集的 PCAP 文件进行点云建图。
+本项目是 FAST-LIO 算法的 Windows MSVC 移植版本，完全移除了 ROS 依赖，可以直接在 Windows 上编译运行。支持从 Livox MID360 雷达采集的 PCAP 文件进行点云建图。 [pcap抓取手机软件](https://github.com/varedias/Mid360_Pcap_Capture.git)
 
 ## 📋 目录
 
