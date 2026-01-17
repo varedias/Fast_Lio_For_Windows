@@ -1,0 +1,17 @@
+build
+Log/*.png
+Log/*.txt
+Log/*.csv
+Log/*.pdf
+.vscode/c_cpp_properties.json
+.vscode/settings.json
+PCD/*.pcd
+target/
+CMakeFiles/
+CMakeCache.txt
+libfastlio_mapping.a
+
+# Large data files
+*.pcap
+*.bag
+*.pcd
